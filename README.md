@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Update as of 4/23/2024 - I will not be updating this for the foreseeable future as this is meant to be a blueprint but do feel free to contact me on discord on ways to improve this.</p>
+<p align="left">Update as of 4/23/2024 - I will not be updating this for the foreseeable future as this is meant to be a blueprint but do feel free to contact me on discord on ways to improve this.<br>If there is more interest, I have a Serial Communication Parser for OSC communication to game engines such as Unity and Unreal. It also works for any program that accepts OSC messages.</p>
 
 ###
 
